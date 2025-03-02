@@ -1,0 +1,8 @@
+ID	Name	Attendance Percentage
+2023kucp1128	anmol	100.00%
+2023kuec2073	naman	100.00%
+2023kuec2080	nitish	50.00%
+2023kuec2075	nishant	100.00%
+2023kuec2056	hansraj	100.00%
+2023kucp1120	Vaishali	100.00%
+2023kucp1157	vikas	0.00%

@@ -1,0 +1,8 @@
+ID	Name	Status	Day
+2023kuec2075	nishant	Present	Day 2
+2023kucp1120	Vaishali	Present	Day 2
+2023kuec2056	hansraj	Present	Day 2
+2023kucp1128	anmol	Present	Day 2
+2023kuec2073	naman	Present	Day 2
+2023kuec2080	nitish	Absent	Day 2
+2023kucp1157	vikas	Absent	Day 2
